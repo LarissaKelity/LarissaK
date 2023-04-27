@@ -4,7 +4,7 @@
 
 📚Atualmente sou estudante da área de ciências de dados, a linguagem que escolhi para desenvolver minhas aplicações é o Python.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"width="40" height="40"/>
 
 Bora conhecer mais da minha trajetória?!
 
