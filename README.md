@@ -1,9 +1,10 @@
  Oii, me chamo Lari 👋🏼
 
 🤓Bem vindo ao meu perfil GitHub!
+
 📚Atualmente sou estudante da área de ciências de dados, a linguagem que escolhi para desenvolver minhas aplicações é o Python.
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 Bora conhecer mais da minha trajetória?!
 
